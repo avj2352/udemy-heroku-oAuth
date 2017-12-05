@@ -61,6 +61,10 @@ Again this is very simple, goto `package.json`:
 - Username/Email: `pramod.jingade@gmail.com`
 - Password: `zuko2352`
 - [Deployed Link of this project](https://peaceful-sea-83549.herokuapp.com/)
+- Link: [Heroku Dashboard](https://dashboard.heroku.com/apps)
+- Username/Email: `avj2352@gmail.com`
+- Password: `zuko2352`
+- [Deployed Link of this project](https://tranquil-waters-29629.herokuapp.com/)
 
 # 
 
